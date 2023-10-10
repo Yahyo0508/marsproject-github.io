@@ -1,0 +1,206 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+body {
+background: url(https://socialmediamars.netlify.app/img/photo_2023-03-03_14-20-26.jpg);
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.wrapper {
+width: 60%;
+display: flex;
+flex-wrap: wrap;
+row-gap: 30px;
+column-gap: 5%;
+}
+
+.block {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 15%;
+height: 130px;
+background: white;
+font-size: 50px;
+color: darkblue;
+transition: 0.4s ease-in-out;
+}
+
+.block:hover {
+border-radius: 30px;
+transform: scale(1.2);
+}
+.facebook {
+color: darkblue;
+}
+.facebook:hover {
+background: darkblue;
+color: white;
+}
+.twitter:hover {
+background: rgb(24, 177, 228);
+color: white;
+}
+.twitter {
+color: rgb(24, 177, 228);
+}
+
+.google {
+    color: orange;
+}
+.google:hover {
+    background: orange;
+    color: white;
+    }
+
+.linkedin {
+color: rgb(88, 213, 255);
+}
+.linkedin:hover {
+    background: rgb(88, 213, 255);
+    color: white;
+}
+
+.youtube {
+color: red;
+}
+.youtube:hover{
+background: red;
+color: white;
+}
+
+.instagram{
+color: rgb(255, 0, 128);
+}
+.instagram:hover{
+background: rgb(255, 0, 128);
+color: white;
+}
+
+.pinterest{
+color: red;
+}
+.pinterest:hover{
+background: red;
+color: white;
+}
+
+.snapchat{
+    color: yellow;
+}
+.snapchat:hover{
+background: yellow;
+color: white;
+}
+
+.skype{
+    color: rgb(0, 140, 255);
+}
+
+.skype:hover{
+background: rgb(0, 140, 255);
+color: white;
+}
+
+.android{
+    color: rgb(74, 250, 74);
+}
+.android:hover{
+background: rgb(74, 259, 74);
+color: white;
+}
+
+.dribbble{
+    color: rgb(255, 74, 134);
+}
+.dribbble:hover{
+background: rgb(255, 74, 134);
+color: white;
+}
+
+.vimeo{
+color: rgb(0, 162, 255);
+}
+.vimeo:hover{
+background: rgb(0, 162, 255);
+color: white;
+}
+
+.tumblr{
+color: rgb(35, 35, 255);
+}
+.tumblr:hover{
+background: rgb(35, 35, 255);
+color: white;
+}
+
+.vine{
+color: rgb(0, 199, 83);
+}
+
+.vine:hover{
+background: rgb(0, 199, 83);
+color: white;
+}
+
+.foursquare{
+color: rgb(0, 140, 255);
+}
+.foursquare:hover{
+background: rgb(0, 140, 255);
+color: white;
+}
+
+.stumbleupon{
+color: rgb(255, 81, 0);
+}
+
+.stumbleupon:hover{
+background: rgb(255, 81, 0);
+color: white;
+}
+
+.flickr{
+color: rgb(255, 0, 128);
+}
+.flickr:hover{
+background: rgb(255, 0, 128);
+color: white;
+}
+
+.y{
+color: rgb(117, 0, 226);
+}
+.y:hover{
+background: rgb(117, 0, 226);
+color: white;
+}
+
+.reddit{
+color: rgb(255, 81, 0);
+}
+.reddit:hover{
+background: rgb(255, 81, 0);
+color: white;
+}
+
+.RSS{
+color: rgb(255, 81, 0);
+}
+.RSS:hover{
+background: rgb(255, 81, 0);
+color: white;
+}
+
+
+
+
+
+
